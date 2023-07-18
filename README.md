@@ -1,1 +1,1 @@
-# pythonhubstudio.github.io
+# pythoncite.github.io
